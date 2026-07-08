@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sumit73150/LeetCode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0053-maximum-subarray](https://github.com/sumit73150/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/sumit73150/LeetCode-Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0867-transpose-matrix](https://github.com/sumit73150/LeetCode-Solutions/tree/master/0867-transpose-matrix) |
 ## Binary Search
 |  |
 | ------- |
@@ -29,4 +30,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/sumit73150/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
+## Matrix
+|  |
+| ------- |
+| [0867-transpose-matrix](https://github.com/sumit73150/LeetCode-Solutions/tree/master/0867-transpose-matrix) |
+## Simulation
+|  |
+| ------- |
+| [0867-transpose-matrix](https://github.com/sumit73150/LeetCode-Solutions/tree/master/0867-transpose-matrix) |
 <!---LeetCode Topics End-->

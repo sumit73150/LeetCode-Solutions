@@ -3,7 +3,9 @@ class Solution {
         int n = nums.length;
         int start = 0 ;
         int end = n-1; 
-        int mid = (start+end)/2;
+        // int mid = (start+end)/2;
+
+        int mid = start + (end-start)/2;
 
         while(start <= end ){
             //comapre  target with midvalue 
@@ -26,7 +28,9 @@ class Solution {
             }
 
             // update mid
-            mid = (start+end)/2;
+            // mid = (start+end)/2;
+            
+            mid = start + (end-start)/2;
         }
 
         return -1;

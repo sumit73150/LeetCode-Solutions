@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-transpose-matrix](https://github.com/sumit73150/LeetCode-Solutions/tree/master/0867-transpose-matrix) |
 | [1260-shift-2d-grid](https://github.com/sumit73150/LeetCode-Solutions/tree/master/1260-shift-2d-grid) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/sumit73150/LeetCode-Solutions/tree/master/3513-number-of-unique-xor-triplets-i) |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/sumit73150/LeetCode-Solutions/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/sumit73150/LeetCode-Solutions/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/sumit73150/LeetCode-Solutions/tree/master/0069-sqrtx) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/sumit73150/LeetCode-Solutions/tree/master/3513-number-of-unique-xor-triplets-i) |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/sumit73150/LeetCode-Solutions/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## String
 |  |
 | ------- |
@@ -68,8 +70,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3499-maximize-active-section-with-trade-i](https://github.com/sumit73150/LeetCode-Solutions/tree/master/3499-maximize-active-section-with-trade-i) |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/sumit73150/LeetCode-Solutions/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/sumit73150/LeetCode-Solutions/tree/master/3513-number-of-unique-xor-triplets-i) |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/sumit73150/LeetCode-Solutions/tree/master/3514-number-of-unique-xor-triplets-ii) |
 <!---LeetCode Topics End-->

@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sumit73150/LeetCode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0151-reverse-words-in-a-string](https://github.com/sumit73150/LeetCode-Solutions/tree/master/0151-reverse-words-in-a-string) |
 ## Hash Table
 |  |
 | ------- |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0151-reverse-words-in-a-string](https://github.com/sumit73150/LeetCode-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/sumit73150/LeetCode-Solutions/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/sumit73150/LeetCode-Solutions/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/sumit73150/LeetCode-Solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |

@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3501-maximize-active-section-with-trade-ii](https://github.com/sumit73150/LeetCode-Solutions/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/sumit73150/LeetCode-Solutions/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/sumit73150/LeetCode-Solutions/tree/master/3514-number-of-unique-xor-triplets-ii) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/sumit73150/LeetCode-Solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Binary Search
 |  |
 | ------- |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/sumit73150/LeetCode-Solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/sumit73150/LeetCode-Solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/sumit73150/LeetCode-Solutions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/sumit73150/LeetCode-Solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -86,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/sumit73150/LeetCode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0867-transpose-matrix](https://github.com/sumit73150/LeetCode-Solutions/tree/master/0867-transpose-matrix) |
 | [1260-shift-2d-grid](https://github.com/sumit73150/LeetCode-Solutions/tree/master/1260-shift-2d-grid) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/sumit73150/LeetCode-Solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Simulation
 |  |
 | ------- |
@@ -142,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/sumit73150/LeetCode-Solutions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/sumit73150/LeetCode-Solutions/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/sumit73150/LeetCode-Solutions/tree/master/3514-number-of-unique-xor-triplets-ii) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/sumit73150/LeetCode-Solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Sorting
 |  |
 | ------- |
@@ -235,4 +239,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/sumit73150/LeetCode-Solutions/tree/master/2213-longest-substring-of-one-repeating-character) |
+## Breadth-First Search
+|  |
+| ------- |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/sumit73150/LeetCode-Solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 <!---LeetCode Topics End-->

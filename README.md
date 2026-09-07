@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/sumit73150/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
 | [0486-predict-the-winner](https://github.com/sumit73150/LeetCode-Solutions/tree/master/0486-predict-the-winner) |
+| [0940-distinct-subsequences-ii](https://github.com/sumit73150/LeetCode-Solutions/tree/master/0940-distinct-subsequences-ii) |
 | [1140-stone-game-ii](https://github.com/sumit73150/LeetCode-Solutions/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/sumit73150/LeetCode-Solutions/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/sumit73150/LeetCode-Solutions/tree/master/1563-stone-game-v) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/sumit73150/LeetCode-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0443-string-compression](https://github.com/sumit73150/LeetCode-Solutions/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/sumit73150/LeetCode-Solutions/tree/master/0567-permutation-in-string) |
+| [0940-distinct-subsequences-ii](https://github.com/sumit73150/LeetCode-Solutions/tree/master/0940-distinct-subsequences-ii) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/sumit73150/LeetCode-Solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/sumit73150/LeetCode-Solutions/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/sumit73150/LeetCode-Solutions/tree/master/2213-longest-substring-of-one-repeating-character) |
